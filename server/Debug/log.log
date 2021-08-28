@@ -1,0 +1,110 @@
+[INFO] 16:52:58:846 Servidor/(7150:7150): Servidor listo para recibir al cliente
+[INFO] 17:01:12:921 Servidor/(8365:8365): Servidor listo para recibir al cliente
+[INFO] 17:01:23:584 Servidor/(8365:8365): Se conecto un cliente!
+[ERROR] 17:01:23:585 Servidor/(8365:8365): el cliente se desconecto. Terminando servidor
+[INFO] 17:14:26:518 Servidor/(10351:10351): Servidor listo para recibir al cliente
+[INFO] 17:15:17:720 Servidor/(10474:10474): Servidor listo para recibir al cliente
+[INFO] 17:15:19:912 Servidor/(10474:10474): Se conecto un cliente!
+[ERROR] 17:15:19:913 Servidor/(10474:10474): el cliente se desconecto. Terminando servidor
+[INFO] 17:18:02:865 Servidor/(10877:10877): Servidor listo para recibir al cliente
+[INFO] 17:18:04:981 Servidor/(10877:10877): Se conecto un cliente!
+[ERROR] 17:18:04:981 Servidor/(10877:10877): el cliente se desconecto. Terminando servidor
+[INFO] 17:29:16:640 Servidor/(12327:12327): Servidor listo para recibir al cliente
+[INFO] 17:29:21:692 Servidor/(12327:12327): Se conecto un cliente!
+[ERROR] 17:29:21:863 Servidor/(12327:12327): el cliente se desconecto. Terminando servidor
+[INFO] 17:29:49:952 Servidor/(12416:12416): Servidor listo para recibir al cliente
+[INFO] 17:29:52:043 Servidor/(12416:12416): Se conecto un cliente!
+[ERROR] 17:29:52:202 Servidor/(12416:12416): el cliente se desconecto. Terminando servidor
+[INFO] 17:30:30:437 Servidor/(12505:12505): Servidor listo para recibir al cliente
+[INFO] 17:30:50:515 Servidor/(12505:12505): Se conecto un cliente!
+[ERROR] 17:31:41:817 Servidor/(12505:12505): el cliente se desconecto. Terminando servidor
+[INFO] 17:41:36:127 Servidor/(14419:14419): Servidor listo para recibir al cliente
+[INFO] 17:41:40:108 Servidor/(14419:14419): Se conecto un cliente!
+[ERROR] 17:41:40:253 Servidor/(14419:14419): el cliente se desconecto. Terminando servidor
+[INFO] 17:41:48:096 Servidor/(14445:14445): Servidor listo para recibir al cliente
+[INFO] 17:42:57:227 Servidor/(14445:14445): Se conecto un cliente!
+[ERROR] 17:43:27:457 Servidor/(14445:14445): el cliente se desconecto. Terminando servidor
+[INFO] 17:45:35:808 Servidor/(15037:15037): Servidor listo para recibir al cliente
+[INFO] 17:45:37:528 Servidor/(15037:15037): Se conecto un cliente!
+[ERROR] 17:45:37:679 Servidor/(15037:15037): el cliente se desconecto. Terminando servidor
+[INFO] 17:45:45:441 Servidor/(15059:15059): Servidor listo para recibir al cliente
+[INFO] 17:47:06:253 Servidor/(15059:15059): Se conecto un cliente!
+[ERROR] 17:47:20:553 Servidor/(15059:15059): el cliente se desconecto. Terminando servidor
+[INFO] 17:49:06:919 Servidor/(15568:15568): Servidor listo para recibir al cliente
+[INFO] 17:49:08:273 Servidor/(15568:15568): Se conecto un cliente!
+[INFO] 17:49:08:273 Servidor/(15568:15568): Me llego el mensaje "Hola! Soy un log"
+[ERROR] 17:49:08:274 Servidor/(15568:15568): el cliente se desconecto. Terminando servidor
+[INFO] 17:59:22:382 Servidor/(16948:16948): Servidor listo para recibir al cliente
+[INFO] 17:59:24:831 Servidor/(16948:16948): Se conecto un cliente!
+[INFO] 17:59:31:218 Servidor/(16948:16948): Me llegaron los siguientes valores:
+
+[ERROR] 17:59:31:419 Servidor/(16948:16948): el cliente se desconecto. Terminando servidor
+[INFO] 18:01:54:347 Servidor/(17303:17303): Servidor listo para recibir al cliente
+[INFO] 18:01:56:889 Servidor/(17303:17303): Se conecto un cliente!
+[INFO] 18:02:03:399 Servidor/(17303:17303): Me llegaron los siguientes valores:
+
+[INFO] 18:02:03:399 Servidor/(17303:17303): hola
+
+[INFO] 18:02:03:399 Servidor/(17303:17303): esto
+
+[INFO] 18:02:03:399 Servidor/(17303:17303): es 
+
+[INFO] 18:02:03:399 Servidor/(17303:17303): una
+
+[INFO] 18:02:03:399 Servidor/(17303:17303): prueba
+
+[ERROR] 18:02:03:583 Servidor/(17303:17303): el cliente se desconecto. Terminando servidor
+[INFO] 18:02:54:115 Servidor/(17459:17459): Servidor listo para recibir al cliente
+[INFO] 18:02:56:323 Servidor/(17459:17459): Se conecto un cliente!
+[INFO] 18:02:56:323 Servidor/(17459:17459): Me llego el mensaje "Hola! Soy un log"
+[INFO] 18:03:07:054 Servidor/(17459:17459): Me llegaron los siguientes valores:
+
+[INFO] 18:03:07:054 Servidor/(17459:17459): hola
+
+[INFO] 18:03:07:054 Servidor/(17459:17459): soy
+
+[INFO] 18:03:07:054 Servidor/(17459:17459): un
+
+[INFO] 18:03:07:054 Servidor/(17459:17459): programa
+
+[INFO] 18:03:07:054 Servidor/(17459:17459): de
+
+[INFO] 18:03:07:055 Servidor/(17459:17459): prueba
+
+[INFO] 18:03:07:055 Servidor/(17459:17459): de
+
+[INFO] 18:03:07:055 Servidor/(17459:17459): sockets
+
+[ERROR] 18:03:07:250 Servidor/(17459:17459): el cliente se desconecto. Terminando servidor
+[INFO] 18:11:17:428 Servidor/(18553:18553): Servidor listo para recibir al cliente
+[INFO] 18:11:19:204 Servidor/(18553:18553): Se conecto un cliente!
+[INFO] 18:11:19:204 Servidor/(18553:18553): Me llego el mensaje "Hola! Soy un log"
+[INFO] 18:11:28:169 Servidor/(18553:18553): Me llegaron los siguientes valores:
+
+[INFO] 18:11:28:169 Servidor/(18553:18553): hola esto es
+
+[INFO] 18:11:28:169 Servidor/(18553:18553): una prueba
+
+[ERROR] 18:11:28:330 Servidor/(18553:18553): el cliente se desconecto. Terminando servidor
+[INFO] 18:12:38:182 Servidor/(18737:18737): Servidor listo para recibir al cliente
+[INFO] 18:12:40:532 Servidor/(18737:18737): Se conecto un cliente!
+[INFO] 18:12:40:532 Servidor/(18737:18737): Me llego el mensaje "Hola! Soy un log"
+[INFO] 18:12:45:882 Servidor/(18737:18737): Me llegaron los siguientes valores:
+
+[INFO] 18:12:45:883 Servidor/(18737:18737): hola
+
+[ERROR] 18:12:45:884 Servidor/(18737:18737): el cliente se desconecto correctamente. Terminando servidor
+[INFO] 18:13:21:734 Servidor/(18848:18848): Servidor listo para recibir al cliente
+[INFO] 18:13:23:188 Servidor/(18848:18848): Se conecto un cliente!
+[INFO] 18:13:23:188 Servidor/(18848:18848): Me llego el mensaje "Hola! Soy un log"
+[INFO] 18:13:29:961 Servidor/(18848:18848): Me llegaron los siguientes valores:
+
+[INFO] 18:13:29:963 Servidor/(18848:18848): hola
+
+[INFO] 18:13:29:963 Servidor/(18848:18848): esto
+
+[INFO] 18:13:29:963 Servidor/(18848:18848): es un servidor
+
+[INFO] 18:13:29:963 Servidor/(18848:18848): de prueba
+
+[INFO] 18:13:29:963 Servidor/(18848:18848): el cliente se desconecto correctamente. Terminando servidor
